@@ -1,6 +1,6 @@
 # Lower Ricci Curvature for Efficient Community Detection
 ## Overview
-This is a repository for a paper "[Lower Ricci Curvature for Efficient Community Detection](https://arxiv.org/abs/2401.10124)". 
+This is a repository for a paper "Lower Ricci Curvature for Efficient Community Detection". 
 
 This study introduces the Lower Ricci Curvature (LRC), a novel, scalable, and scale-free discrete curvature designed to enhance community detection in networks. Addressing the computational challenges posed by existing curvature-based methods, LRC offers a streamlined approach with linear computational complexity, making it well-suited for large-scale network analysis. We further develop an LRC-based preprocessing method that effectively augments popular community detection algorithms. Through comprehensive simulations and applications on real- world datasets, including the NCAA football league network, the DBLP collaboration network, the Amazon product co-purchasing network, and the YouTube social network, we demonstrate the efficacy of our method in significantly improving the performance of various community detection algorithms.
 

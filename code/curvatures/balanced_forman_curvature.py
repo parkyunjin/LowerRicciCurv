@@ -2,7 +2,6 @@ import networkx as nx
 import time
 import math
 import sys
-sys.path.insert(1, '/work/users/y/j/yjinpark/curvature_community/functions')
 from balancedforman_numba import balanced_forman_curvature, bfc_two
 
 class BalancedForman:

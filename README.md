@@ -8,7 +8,7 @@ This study introduces the Lower Ricci Curvature (LRC), a novel, scalable, and sc
 ### cuvatures
 This folder includes python function for Lower-Ricci Curvature, Forman Ricci Curvature, and Balanced Forman Curvature.
 ### data
-This folder includes data for reproducing figures in the paper. Especially [Fig 1-3](https://github.com/parkyunjin/LowerRicciCurv/blob/main/code/data/edgelist.csv) and [NCAA dataset](https://github.com/parkyunjin/LowerRicciCurv/blob/main/code/data/football.gml).
+This folder includes data for reproducing figures in the paper. Especially [Fig S1](https://github.com/parkyunjin/LowerRicciCurv/blob/main/code/data/edgelist.csv) and [NCAA dataset](https://github.com/parkyunjin/LowerRicciCurv/blob/main/code/data/football.gml).
   - edgelist.csv: This is generated from sbm_ex_generator.py
 ### input
 This folder includes multiple .txt file for generating Stochastic Block Model simulation in Section 5. This folder is used with [simulation.py](https://github.com/parkyunjin/LowerRicciCurv/blob/main/code/simulation.py) and [simul_heatmap.py](https://github.com/parkyunjin/LowerRicciCurv/blob/main/code/simul_heatmap.py).
